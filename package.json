@@ -1,0 +1,15 @@
+{
+  "name": "fake-shopping",
+  "version": "1.0.0",
+  "description": "This is fake-shopping Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx live-server ./src"
+  },
+  "author": "Preetham",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
